@@ -1,0 +1,42 @@
+[
+  {
+    "ID_REGISTRO": "R_0001",
+    "CHAMADO_A": "5511987654321",
+    "Timestamp_Origem": "2025-10-27T10:00:00",
+    "Codigo_Servico": "D01",
+    "Duracao_Seg": 120,
+    "Dados_Brutos": "..."
+  },
+  {
+    "ID_REGISTRO": "R_0002",
+    "CHAMADO_A": "5521991234567",
+    "Timestamp_Origem": "2025-10-27T10:05:00",
+    "Codigo_Servico": "D05",
+    "Duracao_Seg": 5,
+    "Dados_Brutos": "..."
+  },
+  {
+    "ID_REGISTRO": "R_0003",
+    "CHAMADO_A": "5531988887777",
+    "Timestamp_Origem": "2025-10-27T11:15:00",
+    "Codigo_Servico": "D01",
+    "Duracao_Seg": 900,
+    "Dados_Brutos": "..."
+  },
+  {
+    "ID_REGISTRO": "R_0004",
+    "CHAMADO_A": "5511955554444",
+    "Timestamp_Origem": "2025-10-27T11:20:00",
+    "Codigo_Servico": "D04",
+    "Duracao_Seg": 3600,
+    "Dados_Brutos": "..."
+  },
+  {
+    "ID_REGISTRO": "R_0005",
+    "CHAMADO_A": "5541911112222",
+    "Timestamp_Origem": "2025-10-27T11:25:00",
+    "Codigo_Servico": "D01",
+    "Duracao_Seg": 15,
+    "Dados_Brutos": "..."
+  }
+]
